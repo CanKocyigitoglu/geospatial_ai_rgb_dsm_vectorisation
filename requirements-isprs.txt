@@ -1,0 +1,4 @@
+-r requirements-full.txt
+
+tifffile>=2024.0
+pyproj>=3.6

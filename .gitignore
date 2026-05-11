@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/demo/
+data/isprs/
+outputs/
+*.pt
+*.pth
+runs/

@@ -1,0 +1,4 @@
+-r requirements-demo.txt
+torch>=2.0
+torchvision>=0.15
+tqdm>=4.66

@@ -1,0 +1,18 @@
+{
+  "0": {
+    "name": "background",
+    "description": "ignored background / clutter / car in the reduced ISPRS setup"
+  },
+  "1": {
+    "name": "building",
+    "description": "building roof / built structure"
+  },
+  "2": {
+    "name": "vegetation",
+    "description": "low vegetation and tree classes merged for a simple portfolio model"
+  },
+  "3": {
+    "name": "road_or_impervious",
+    "description": "impervious surfaces, roads, pavements and similar hard surfaces"
+  }
+}

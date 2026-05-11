@@ -156,3 +156,4 @@ The real-data workflow uses a reduced four-class mapping:
 2 = vegetation
 3 = road_or_impervious
 ```
+<img width="1899" height="916" alt="image" src="https://github.com/user-attachments/assets/d99a9a75-d4a9-4182-b5e2-e830c01842b2" />
